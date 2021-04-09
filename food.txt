@@ -1,0 +1,11 @@
+  <h1><strong>Food</strong></h1>
+    <p>Knowing what foods we should and shouldn&rsquo;t be eating can be really confusing, especially when it feels like the advice changes regularly. However, evidence suggests that as well as affecting our physical health, what we eat may also affect the way we feel.</p>
+    <p>Improving your diet may help to:</p>
+    <ul>
+        <li>improve your mood</li>
+        <li>give you more energy</li>
+        <li>help you think more clearly.</li>
+    </ul>
+    <p>A healthy diet may also help to prevent certain serious diseases such as heart disease, stroke and type 2 diabetes. It may also help to reduce your risk of developing some cancers. If you become sick, eating a healthy diet may help you to recover more quickly. Also, a main way of preventing obesity and overweight is to eat a healthy diet. If you are overweight or obese, eating a healthy diet can help you lose weight.</p>
+    <p><a href="https://www.bbcgoodfood.com/howto/guide/balanced-diet-men">https://www.bbcgoodfood.com/howto/guide/balanced-diet-men</a></p>
+    <p><a href="https://www.bbcgoodfood.com/howto/guide/balanced-diet-men">https://www.menshealth.com/uk/nutrition/</a></p>

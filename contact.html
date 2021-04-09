@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- this bit tells the broser it is an HTML document -->
+<html lang="en">
+  <!-- start the HTML -->
+
+  <!-- this is where the meta info lives-->
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" >
+    <title>MANUP</title>
+  </head>
+  <body>
+    <div id="logo"><a href="index.html"><img src="images/Logo.png" id="textLogo " /></a></div>
+  
+    <nav class="navbar">
+        <a href="index.html" id="navbarHeader"> MAN UP!</a>
+        <ul class="nav-links">
+          <li class="nav-item"><a href="index.html">Home</a></li>
+          <li class="nav-item"><a href="exercise.html">Exercise</a></li>
+          <li class="nav-item"><a href="food.html">Food</a></li>
+          <li class="nav-item"><a href="aboutme.html">About</a></li>
+          <li class="nav-item"><a href="help.html">Help</a></li>
+          <li class="nav-item active"><a href="contact.html">Contact</a></li>
+          <li class="nav-item"><a href="links.html">Useful Links</a></li>
+        </ul>
+      </nav>
+
+    <div id="content">
+      <h1>MANUP - Contact Us</h1>
+      <div id="contact-form">
+      <form >
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+      
+        <label for="city">City</label>
+        <select id="city" name="city">
+            <option value=""></option>
+          <option value="leeds">Leeds</option>
+          <option value="liverpool">Liverpool</option>
+          <option value="manchester">Manchester</option>
+        </select>
+      
+        <input type="submit" value="Submit">
+      </form></div>
+    </div>
+
+    <footer>&copy; Daniel Hilton </footer>
+  </body>
+</html>
+<!-- closing the HTML-->
