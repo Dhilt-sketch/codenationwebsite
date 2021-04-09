@@ -35,6 +35,12 @@ nav a{
   display: inline-block;
 }
 
+#navbarHeader{
+  font-size:1.9rem;
+  color:pink;
+  font-weight:bold;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
